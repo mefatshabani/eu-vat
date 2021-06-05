@@ -3,7 +3,7 @@ Software product that goes through the list of VAT numbers, checks them for comp
 
 # Information
 
-● Use https://ec.europa.eu/taxation_customs/vies/technicalInformation.html API for validation
-● Program use Guzzle library for API requests and Composer for autoloading
-● It does not have any framework
-● Use only packages Guzzle and PHPUnit
+● Use https://ec.europa.eu/taxation_customs/vies/technicalInformation.html API for validation <br>
+● Program use Guzzle library for API requests and Composer for autoloading <br>
+● It does not have any framework <br>
+● Use only packages Guzzle and PHPUnit <br>
